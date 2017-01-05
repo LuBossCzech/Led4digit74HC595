@@ -7,5 +7,3 @@ loopShow	KEYWORD2
 setDecimalPoint	KEYWORD2
 
 sleep	KEYWORD2
-
-send	KEYWORD2
