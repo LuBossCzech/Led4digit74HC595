@@ -1,0 +1,9 @@
+Led4digit74HC595	KEYWORD1
+
+setNumber	KEYWORD2
+
+loopShow	KEYWORD2
+
+setDecimalPoint	KEYWORD2
+
+sleep	KEYWORD2
