@@ -16,5 +16,4 @@ Float number must be converted to integer!
 
 
 _Version 1.1
-Created by Lubomir Hron (Czech Republic)
-Based on Kostarev V. - TM74HC595-4dig-display project	- thanks_
+Created by Lubomir Hron (Czech Republic)_
