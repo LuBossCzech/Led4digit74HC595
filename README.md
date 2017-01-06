@@ -1,9 +1,7 @@
 # Led4digit74HC595.h - Arduino library for use 7-segment led module
 
-### Designed for use with China module 4 digits x 7 segments led with 2 pcs 74HC595
-
-This module must use multiplexing positions, not possible set static show bits all at once!
-Ideally for china (ebay) arduino module 
+Designed for China (ebay) module 4 digits x 7 segments led with 2 pcs 74HC595  
+This module must use multiplexing positions, not possible set static show bits all at once!  
 
 ![alt tag](https://raw.githubusercontent.com/LuBossCzech/Led4digit74HC595/master/LEDmodule.jpg)
 
