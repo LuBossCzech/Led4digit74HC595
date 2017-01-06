@@ -5,6 +5,8 @@
 This module must use multiplexing bits, not possible set static show bits all at once!
 Ideally for china (ebay) arduino module 
 
+![alt tag](https://https://raw.githubusercontent.com/LuBossCzech/Led4digit74HC595/master/LEDmodule.jpg)
+
 Show integer from -999 to +9999
 If number > 9999 display show upper ----
 If number < -999 display show ____
