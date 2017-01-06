@@ -2,7 +2,7 @@
 
 ### Designed for use with China module 4 digits x 7 segments led with 2 pcs 74HC595
 
-This module must use multiplexing bits, not possible set static show bits all at once!
+This module must use multiplexing positions, not possible set static show bits all at once!
 Ideally for china (ebay) arduino module 
 
 ![alt tag](https://raw.githubusercontent.com/LuBossCzech/Led4digit74HC595/master/LEDmodule.jpg)
